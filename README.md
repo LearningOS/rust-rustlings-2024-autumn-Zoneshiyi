@@ -14,6 +14,10 @@
 ├── target/
 │   ├── debug/
 │   └── release/
+├── tests/
+│   ├── common
+│   │   └── mod.rs
+│   └── integration_test.rs
 └── Cargo.toml
 ```
 
